@@ -1,0 +1,4 @@
+springcloud: 
+    hello: hello test update
+server: 
+    port: 8085

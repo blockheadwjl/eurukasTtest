@@ -1,0 +1,4 @@
+springcloud: 
+    hello: hello pro update
+server: 
+    port: 8085
